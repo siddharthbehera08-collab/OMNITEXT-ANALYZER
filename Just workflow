@@ -1,0 +1,34 @@
+OmniText-Analyzer/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── models/
+│   ├── summarizer/
+│   ├── classifier/
+│   └── embeddings/
+│
+├── src/
+│   ├── summarizer.py
+│   ├── ai_detector.py
+│   ├── fake_news.py
+│   ├── categorizer.py
+│   ├── topic_modeling.py
+│   ├── plagiarism_checker.py
+│   ├── keyword_extractor.py
+│   └── utils.py
+│
+├── notebooks/
+│   ├── summarizer.ipynb
+│   ├── classifier.ipynb
+│   └── experiments.ipynb
+│
+├── app/
+│   ├── main.py
+│   ├── templates/
+│   └── static/
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
