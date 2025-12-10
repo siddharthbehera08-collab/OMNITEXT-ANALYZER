@@ -1,17 +1,8 @@
-OmniText Analyzer (working title)
+# Modular AI App
 
-A unified NLP platform that can:
+This is a modular AI application structure.
 
-Summarize full-length articles
-Detect AI-generated text
-Detect fake news
-Categorize articles
-Extract keywords & tags
-Check plagiarism
-Analyze topics & trends
-
-Tech Stack
-Python, Transformers, scikit-learn, spaCy, FAISS, Flask/Streamlit.
-
-Status
-Under development.
+## Structure
+- `/src/backend`: Python backend (FastAPI)
+- `/src/frontend`: React frontend
+- `/data`: Data storage
